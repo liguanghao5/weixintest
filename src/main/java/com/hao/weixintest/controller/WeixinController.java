@@ -34,7 +34,7 @@ public class WeixinController {
     public String runUrl(){
 
         log.info("runUrl");
-        return "hello weixintest";
+        return "hello weixintest2";
 
     }
 
